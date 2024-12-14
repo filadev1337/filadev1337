@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- Hi there 👋
 
 <!--
 **filadev1337/filadev1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## RU 🌏
+## Добро пожаловать на мой профиль, я разработчик filadev1337, я пишу в основном сайты, и чаще всего бэкэнд.
+Здесь вы сможете увидеть мои проекты!
